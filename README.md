@@ -64,11 +64,41 @@ to `api.anthropic.com` over HTTPS with certificate verification.
 
 | Part | Price | Link |
 |---|---|---|
-| ESP32-2432S028R (CYD) | ~$18 | Search "ESP32-2432S028R" on Amazon or AliExpress |
+| ESP32-2432S028R (CYD) | ~$17 | [Amazon — DIYmall](https://www.amazon.com/DIYmall-ESP32-2432S028R-Dual-core-240X320-Display/dp/B0BVFXR313) |
 | Micro-USB cable (data, not charge-only) | ~$5 | Any electronics retailer |
 | USB charger or power bank | — | Any 5V USB source |
 
 Optional: a right-angle micro-USB adapter for clean cable routing out the back.
+
+---
+
+## 3D Printed Case
+
+The CYD fits neatly into a two-piece printed case. You need two separate
+models — one for the front shell and one for the back/stand:
+
+### Front shell
+**ESP32 2.8" CYD Screen Case (USB-C mod)**
+Printables: https://www.printables.com/model/691234
+
+Clean front bezel that frames the 2.8" screen. This version includes a
+modification for a USB-C port adapter so the cable exits more neatly than
+the stock micro-USB orientation.
+
+### Back and stand
+**ESP32 2.8" CYD Screen Case (back + stand)**
+Printables: https://www.printables.com/model/645166
+
+Snaps onto the front shell and includes an angled desk stand so the display
+sits at a comfortable viewing angle on your desk.
+
+### Printing notes
+
+- Print in PLA at 0.2mm layer height
+- No supports needed for either part
+- The stand piece has a slot for the micro-USB cable to exit cleanly from
+  the rear — pair with a right-angle micro-USB adapter for the tidiest result
+- Both parts clip together with no screws required
 
 ---
 
