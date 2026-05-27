@@ -10,7 +10,7 @@ how much of your Claude quota you've used.
 
 ## What it shows
 
-![Claude Usage Monitor running on the CYD desk display](preview.webp)
+![Claude Usage Monitor running on the CYD desk display](img.webp)
 
 ## How it works
 
