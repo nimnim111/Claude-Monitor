@@ -45,10 +45,6 @@ to `api.anthropic.com` over HTTPS with certificate verification.
 | Part | Price | Link |
 |---|---|---|
 | ESP32-2432S028R (CYD) | ~$17 | [Amazon — DIYmall](https://www.amazon.com/DIYmall-ESP32-2432S028R-Dual-core-240X320-Display/dp/B0BVFXR313) |
-| Micro-USB cable (data, not charge-only) | ~$5 | Any electronics retailer |
-| USB charger or power bank | — | Any 5V USB source |
-
-Optional: a right-angle micro-USB adapter for clean cable routing out the back.
 
 ---
 
